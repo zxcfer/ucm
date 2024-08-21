@@ -4,7 +4,8 @@ import (
 	"errors"
 	"fmt"
 	"strings"
-	"ucm/packages/profiles"
+
+	"github.com/zxcfer/ucm/packages/profiles"
 )
 
 func SwitchHosts(_ *profiles.Hosts) error {

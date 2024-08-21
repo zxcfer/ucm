@@ -2,7 +2,8 @@ package commands
 
 import (
 	"fmt"
-	"ucm/packages/config"
+
+	"github.com/zxcfer/ucm/packages/config"
 )
 
 // profilesCommand implements "profiles" command

@@ -3,7 +3,8 @@ package commands
 import (
 	"fmt"
 	"os"
-	"ucm/packages/config"
+
+	"github.com/zxcfer/ucm/packages/config"
 )
 
 // profilesCommand implements "list" command

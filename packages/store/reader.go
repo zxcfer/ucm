@@ -2,10 +2,11 @@ package store
 
 import (
 	"fmt"
-	"gopkg.in/yaml.v2"
 	"io"
 	"os"
-	"ucm/packages/profiles"
+
+	"github.com/zxcfer/ucm/packages/profiles"
+	"gopkg.in/yaml.v3"
 )
 
 // This is for unit tests

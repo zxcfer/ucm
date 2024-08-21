@@ -5,7 +5,8 @@ import (
 	"fmt"
 	"os/exec"
 	"strings"
-	"ucm/packages/execute"
+
+	"github.com/zxcfer/ucm/packages/execute"
 )
 
 func SwitchVersion(version string) error {

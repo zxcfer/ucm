@@ -3,10 +3,11 @@ package commands
 import (
 	"errors"
 	"fmt"
-	"ucm/packages/files"
-	"ucm/packages/nodejs"
-	"ucm/packages/profiles"
-	"ucm/packages/store"
+
+	"github.com/zxcfer/ucm/packages/files"
+	"github.com/zxcfer/ucm/packages/nodejs"
+	"github.com/zxcfer/ucm/packages/profiles"
+	"github.com/zxcfer/ucm/packages/store"
 )
 
 type showCommand struct {

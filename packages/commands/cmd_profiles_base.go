@@ -2,9 +2,10 @@ package commands
 
 import (
 	"fmt"
-	"github.com/mitchellh/go-homedir"
 	"path/filepath"
-	"ucm/packages/store"
+
+	"github.com/mitchellh/go-homedir"
+	"github.com/zxcfer/ucm/packages/store"
 )
 
 type profileTarget struct {

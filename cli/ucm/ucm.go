@@ -1,9 +1,10 @@
 package main
 
 import (
-	"github.com/jessevdk/go-flags"
 	"os"
-	"ucm/packages/commands"
+
+	"github.com/jessevdk/go-flags"
+	"github.com/zxcfer/ucm/packages/commands"
 )
 
 func main() {
