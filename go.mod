@@ -1,4 +1,4 @@
-module github.com\zxcfer\ucm
+module github.com/zxcfer/ucm
 
 go 1.15
 
